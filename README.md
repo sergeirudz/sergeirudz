@@ -20,8 +20,6 @@
 <li>Redux, Flux, Mobx, ReactQuery</li>
 <li>NodeJS, NestJS</li>
 <li>MaterialUI, Bootstrap, TailwindCSS, Sass</li>
-</ul>
-<ul>
 <li>Docker</li>
 <li>MySQL, Postgres, NoSQL/Firebase</li>
 <li>REST ,GraphQL</li>
