@@ -28,3 +28,6 @@
 <li>Google Cloud Platform</li>
 </uL>
 </div>
+<hr>
+
+![Profile views](https://komarev.com/ghpvc/?username=sergeirudz&color=yellow)
