@@ -4,6 +4,8 @@
 
 - 🌱 I like to solve problems on **<a href="https://leetcode.com/sergeirudz/" target="_blank">Leetcode</a>** and watch **Udemy** courses.
 
+- 🧠 Currently I'm learning **Java(Spring)** every day. ( 20. June 2023 - present )
+
 # <h4 align="center">Contact me:</h4>
 
 <div align="center">
